@@ -1,5 +1,5 @@
 # mushroom-challenge
-Addestramento supervisionato di un modello per una classificazione binaria di funghi (commestibile/avvelenato) 
+Addestramento supervisionato di un modello per una classificazione binaria di funghi (commestibile/avvelenato) :mushroom:
 
 * [mushrooms.partial.csv.gz](https://github.com/mariocuomo/mushroom-challenge/blob/main/mushrooms.partial.csv.gz)<br>
 É il dataset (.csv) di partenza per l'apprendimento supervisionato.<br>
