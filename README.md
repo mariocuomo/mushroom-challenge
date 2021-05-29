@@ -11,4 +11,5 @@ Addestramento supervisionato di un modello per una classificazione binaria di fu
 É un Jupyter Notebook con l'obiettivo di caricare i due dataset (train.csv e test.csv), addestrare il modello sui dati di train e testarlo su quelli di test. Utilizza l'algoritmo kNN per effettuare la classificazione.
 
 ---
+Challenge proposta durante il corso di Intelligenza Artificiale, Roma Tre.<br>
 Per saperne di più :point_right: [mariocuomo/artificial_intelligence](https://github.com/mariocuomo/artificial_intelligence)
